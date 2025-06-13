@@ -1,3 +1,5 @@
+![sales forecast](https://github.com/user-attachments/assets/0cdf199f-e6cd-4928-b01e-0b1c6b2f863d)
+![Monthly sales](https://github.com/user-attachments/assets/dd9ac335-811f-4f4b-8230-eefa11ef7127)
 # 📈 Sales Forecasting using ARIMA
 
 This project demonstrates time series forecasting of daily sales data using the ARIMA (AutoRegressive Integrated Moving Average) model. The goal is to analyze historical sales and predict future trends.
@@ -50,13 +52,13 @@ The dataset contains the following columns:
 ## 📉 Model Performance
 
 - **Metric Used**: RMSE (Root Mean Squared Error)
-- **Model RMSE**: `2450.38` (example shown in results)
-
+- **Model RMSE**: `2450.38` 
 ---
 
 ## 📌 Visualization
 
 ![Sales Forecast](forecast_plot.png)
+![Monthly sales](https://github.com/user-attachments/assets/dcbe5cef-66bb-463a-965d-0dd5455e9d23)
 
 ---
 
