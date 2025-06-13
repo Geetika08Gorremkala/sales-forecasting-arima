@@ -88,9 +88,10 @@ The dataset contains the following columns:
 
 **Geetika Gorremkala**  
 Master's in Business Analytics | B.Com (Computer Applications)  
-[LinkedIn Profile](https://www.linkedin.com/) *(Add your link here)*
+[LinkedIn Profile](https://www.linkedin.com/) *(www.linkedin.com/in/gorremkala-geetika-bb972b23a)*
 
 ---
+#visuals 
 
 ## ⭐️ Feedback
 
